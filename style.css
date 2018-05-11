@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma%27');
+
+body, html
+{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-size:62.5%;
+    margin: 0px;
+    padding: 10px;
+}
+
+body{background-image:url('images/bgd-atari.jpg');}
+.mtop86{margin-top:86px;}
+.mtop15{margin-top:15px;}
+
+.h535{height:535px;}
+.w500{width:500px;}
+
+.backGif{background-image: url('images/bgd.gif');}
+
+#start2, #jeu:hover #start1{display:none;}
+#start1, #jeu:hover #start2{display:block;}
+
+.border{border-radius:5rem;}
+.michroma{font-family: "Michroma";}
+.f16{font-size:50px;}
+.white{color:#ffffff;}
+
+.button{border: 4px solid white;
+    border-radius: 4px;
+    font-size:15px;
+    background-color:#000000;
+    padding:10px;}
